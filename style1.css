@@ -1,0 +1,62 @@
+
+.picture {
+    width: 100%;
+    height: 75%;
+    opacity: 90%;
+}
+
+
+.carousel-item {
+    transition: 1s ease-in-out;
+}
+
+.deskripsi-h5 {
+    color: white;
+}
+
+.deskripsi-caption {
+    color: white;
+    font-size: medium;
+}
+
+.carousel-inner {
+    border-radius: 20px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: rgb(9, 229, 79);
+    background-color: #fffc38;
+}
+
+.gambar {
+    border: 2px solid black;
+    height: 150px;
+    width: 150px;
+    margin: 2%;
+    border-radius: 500px;
+}
+
+.card {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.card-body {
+    background-color: white;
+    border-radius: 20px;
+}
+
+.btn {
+    background-color: black;
+    transition: 0,5s ease-in-out;
+    margin: 5px;
+}
